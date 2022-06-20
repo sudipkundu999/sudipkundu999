@@ -1,15 +1,17 @@
-Hi 👋 My name is Sudip Kundu
-============================
+# Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-I started my web dev journey back in back in December 2021 when I wanted to make a portfolio website of my own, Since then I really liked it, and after giving a month into web dev, I finally decided to pursue it full-time, I am part of web dev bootcamp called neogCamp, where I've been learning and building projects.
+I started my web dev journey back in back in December 2021 when I wanted to make a portfolio website of my own. Since then I'm pursuing it full-time! Currently,I am learning full stack web dev and building projects on them.
 
-*   🌍  I'm based in Kolkata, India
-*   🖥️  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
-*   ✉️  You can contact me at [sudipkundu999@gmail.com](mailto:sudipkundu999@gmail.com)
-*   🧠  I'm learning Testing & TypeScript
+- 🌍  I'm based in Kolkata, India
+- 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
+- 🤝 Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
+- 📖 Sometimes I write blogs on [Hashnode](https://sudipkundu.hashnode.dev)
+- 🧠  I'm learning TypeScript
 
-### Skills
-<p align="left">
+<div align="center">
+
+### Tech Stack
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
@@ -18,26 +20,20 @@ I started my web dev journey back in back in December 2021 when I wanted to make
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
-                    
-### Socials
-                  
-                  
-<p align="left">
-                          
-<a href="https://www.linkedin.com/in/sudip-kundu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sudipkundu999" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://sudipkundu.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
 
-</p>
+</div>
 
-## ✍️ Recent Blog Posts
-
-- [Render Reconciliation React](https://sudipkundu.hashnode.dev/render-reconciliation-react)
-- [Debouncing and Throttling](https://sudipkundu.hashnode.dev/debouncing-and-throttling)
-- [Event Propagation in JavaScript](https://sudipkundu.hashnode.dev/event-propagation-in-javascript)
-
-
-### Badges 
-
-<b>My GitHub Stats</b>
+<details>
+  <summary>My GitHub Stats</summary>
 
 <a href="http://www.github.com/sudipkundu999"><img src="https://github-readme-stats.vercel.app/api?username=sudipkundu999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudipkundu999's GitHub stats" /></a>
+
+</details>
+
+#
+
+<div align="center">
+
+### Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999)!
+
+</div>
