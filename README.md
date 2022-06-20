@@ -1,4 +1,4 @@
-# Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
+## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
 I started my web dev journey back in back in December 2021 when I wanted to make a portfolio website of my own. Since then I'm pursuing it full-time! Currently,I am learning full stack web dev and building projects on them.
 
