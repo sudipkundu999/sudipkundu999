@@ -5,7 +5,7 @@ I started my web dev journey back in back in December 2021 when I wanted to make
 - 🌍  I'm based in Kolkata, India
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
 - 🤝 Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
-- 📖 Sometimes I write blogs on [Hashnode](https://sudipkundu.hashnode.dev)
+- 📖 Sometimes I write blogs on [Hashnode](https://blog.sudipkundu.com/)
 - 🧠  I'm learning TypeScript
 
 <div align="center">
