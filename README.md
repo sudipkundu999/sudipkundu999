@@ -1,19 +1,19 @@
 ## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-I started my web dev journey back in back in December 2021 when I wanted to make a portfolio website of my own. Since then I'm pursuing it full-time! Currently,I am learning full stack web dev and building projects on them.
+I started my web dev journey back in December 2021 when I wanted to make a portfolio website of my own. Now I'm pursuing it full-time!
 
 - 🌍  I'm based in Kolkata, India
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
 - 🤝  Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
 - 📖  Sometimes I write blogs on [Hashnode](https://blog.sudipkundu.com/)
-- 🧠  I'm learning how to write my own backend.
+- 🧠  I'm learning UI automation testing (🤖 x Selenium)
 
 <div align="center">
 
 ### Tech Stack
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
