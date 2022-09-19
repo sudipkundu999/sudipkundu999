@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-I started my web dev journey back in December 2021 when I wanted to make a portfolio website of my own. Now I'm pursuing it full-time!
+I started learning web dev in Dec '21 when I wanted to make a portfolio website of my own. Now I'm pursuing it full-time!
 
 - 🌍  I'm based in Kolkata, India
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
