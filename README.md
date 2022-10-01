@@ -6,7 +6,7 @@ I started learning web dev in Dec '21 when I wanted to make a portfolio website 
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
 - 🤝  Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
 - 📖  Sometimes I write blogs on [Hashnode](https://blog.sudipkundu.com/)
-- 🧠  I'm learning UI automation testing (🤖 x Selenium)
+- 🧠  I'm learning DSA
 
 <div align="center">
 
