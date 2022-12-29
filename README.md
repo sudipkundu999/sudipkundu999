@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-I started learning web dev in Dec '21 when I wanted to make a portfolio website of my own. Now I'm pursuing it full-time!
+I'm working as a UI Engineer @ Flipkart on the Partner network team. I like to explore new technologies & building projects on them.
 
 - 🌍  I'm based in Kolkata, India
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
