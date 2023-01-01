@@ -2,7 +2,6 @@
 
 I'm working as a UI Engineer @ Flipkart on the Partner network team. I like to explore new technologies & building projects on them.
 
-- 🌍  I'm based in Kolkata, India
 - 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
 - 🤝  Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
 - 📖  Sometimes I write blogs on [Hashnode](https://blog.sudipkundu.com/)
