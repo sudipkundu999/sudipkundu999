@@ -1,11 +1,7 @@
 ## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-I'm working as a UI Engineer @ Flipkart on the Partner network team. I like to explore new technologies & building projects on them.
-
-- 💻  See my portfolio at [www.sudipkundu.com](http://www.sudipkundu.com/)
-- 🤝  Connect with me at [Linkedin](https://www.linkedin.com/in/sudip-kundu)
-- 📖  Sometimes I write blogs on [Hashnode](https://blog.sudipkundu.com/)
-- 🧠  I'm learning DSA
+- I'm a UI Engineer at Flipkart on the `Seller Support, Partner Network & API` UI team. 
+- I like to explore new technologies & build projects on them.
 
 <div align="center">
 
@@ -25,17 +21,10 @@ I'm working as a UI Engineer @ Flipkart on the Partner network team. I like to e
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </div>
 
-<details>
-  <summary>My GitHub Stats</summary>
-
-<a href="http://www.github.com/sudipkundu999"><img src="https://github-readme-stats.vercel.app/api?username=sudipkundu999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudipkundu999's GitHub stats" /></a>
-
-</details>
-
 #
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999)!
+### Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999) & connect on [Linkedin](https://www.linkedin.com/in/sudip-kundu)!
 
 </div>
