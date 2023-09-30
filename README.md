@@ -23,8 +23,17 @@
 
 #
 
+<details>
+  <summary>My GitHub Stats</summary>
+
+<a href="http://www.github.com/sudipkundu999"><img src="https://github-readme-stats.vercel.app/api?username=sudipkundu999&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sudipkundu999's GitHub stats" /></a>
+
+</details>
+
 <div align="center">
 
-### Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999) & connect on [Linkedin](https://www.linkedin.com/in/sudip-kundu)!
+#
+
+#### 🧠 Currently, I'm learning DSA & contributing to open source
 
 </div>
