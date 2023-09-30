@@ -25,6 +25,7 @@
 
 <div align="center">
 
-### Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999) & connect on [Linkedin](https://www.linkedin.com/in/sudip-kundu)!
+Let's become friends on [Twitter](https://www.twitter.com/sudipkundu999) & connect on [Linkedin](https://www.linkedin.com/in/sudip-kundu)!
+----
 
 </div>
