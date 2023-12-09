@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Sudip Kundu](https://www.sudipkundu.com/)! and you've reached my Dev space on the WWW :)
 
-- I'm a UI Engineer at Flipkart on the `Seller Support, Partner Network & API` UI team. 
+- I'm a UI Engineer at Flipkart working on the seller platform. 
 - I like to explore new technologies & build projects on them.
 
 <div align="center">
