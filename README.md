@@ -9,7 +9,7 @@
 
 </div>
 
-<div style="display: flex; justify-content:center; align-items:center">
+<div align="center" style="display: flex; justify-content:center; align-items:center">
 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
 
